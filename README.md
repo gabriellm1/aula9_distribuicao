@@ -1,1 +1,3 @@
-# aula9_distribuicao
+# Pacote Hello World
+
+  Pacote de exemplo instalável via pip
