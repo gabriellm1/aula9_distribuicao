@@ -1,0 +1,9 @@
+setup.py
+my_hello/__init__.py
+my_hello/my_hello.py
+my_hello_gabrielm.egg-info/PKG-INFO
+my_hello_gabrielm.egg-info/SOURCES.txt
+my_hello_gabrielm.egg-info/dependency_links.txt
+my_hello_gabrielm.egg-info/requires.txt
+my_hello_gabrielm.egg-info/top_level.txt
+scripts/hello.py
